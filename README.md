@@ -1,2 +1,2 @@
 # westside
-the program is only person project
+#the program is only person project
